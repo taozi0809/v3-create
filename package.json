@@ -1,7 +1,6 @@
 {
   "name": "vite-project-template",
   "version": "0.0.0",
-  "homepage": "https://taozi0809.github.io/v3-create",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
