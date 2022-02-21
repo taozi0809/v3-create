@@ -16,6 +16,7 @@ jobs:
           persist-credentials: false
       - name: Install
         run: |
+          git init
           npm install
       - name: Install and Build
         run: |
