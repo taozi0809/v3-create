@@ -1,6 +1,6 @@
 # 快速上手
 
-本节将介绍如何在全局环境安装 t-create 和通过命令行快速的生成项目。
+本节将介绍如何在全局环境安装 v3-create 和通过命令行快速的生成项目。
 
 ## 安装 CLI
 
@@ -17,14 +17,14 @@
   <CodeGroupItem title="npm">
 
 ```bash:no-line-numbers
-npm install t-create@next -g
+npm install v3-create@next -g
 ```
 
   </CodeGroupItem>
   <CodeGroupItem title="yarn">
 
 ```bash:no-line-numbers
-yarn global add t-create@next
+yarn global add v3-create@next
 ```
 
   </CodeGroupItem>
@@ -32,7 +32,7 @@ yarn global add t-create@next
 
 mac、linux 用户需要权限增加 sudo。
 
-使用方式类似于 @vue/cli，提供了终端里的 t-create 或 x（简写）命令。
+使用方式类似于 @vue/cli，提供了终端里的 v3-create 或 x（简写）命令。
 
 ## 创建项目
 
@@ -44,7 +44,7 @@ mac、linux 用户需要权限增加 sudo。
   <CodeGroupItem title="命令">
 
 ```bash:no-line-numbers
-t-create create [name]
+v3-create create [name]
 ```
 
   </CodeGroupItem>

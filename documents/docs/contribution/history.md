@@ -1,6 +1,6 @@
 # 版本回顾
 
-t-create 从 2017年至今已经历到 6.x 版本，每一次版本的提升也是我个人能力的提升，从这里面我学到了很多东西，下面简单介绍一下 t-create 的发展史：
+v3-create 从 2017年至今已经历到 6.x 版本，每一次版本的提升也是我个人能力的提升，从这里面我学到了很多东西，下面简单介绍一下 v3-create 的发展史：
 
 ## v1.x
 
@@ -16,7 +16,7 @@ t-create 从 2017年至今已经历到 6.x 版本，每一次版本的提升也�
 
 ## v4.x
 
-脚手架的雏形，Webpack 升级至 4.x 版本，内置了多个，具备简单的使用文档，此时是使用 [t-create-cli](https://github.com/taozi0809/t-create-cli) 来拉取 Github 模板来创建项目。
+脚手架的雏形，Webpack 升级至 4.x 版本，内置了多个，具备简单的使用文档，此时是使用 [v3-create-cli](https://github.com/taozi0809/v3-create-cli) 来拉取 Github 模板来创建项目。
 
 ## v5.x
 

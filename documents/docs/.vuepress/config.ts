@@ -4,8 +4,8 @@ import type { DefaultThemeOptions } from 'vuepress'
 const { path } = require('@vuepress/utils')
 
 export default defineUserConfig<DefaultThemeOptions>({
-  title: 't-create',
-  base: '/t-create/',
+  title: 'v3-create',
+  base: '/v3-create/',
   port: 3000,
   plugins: [
     [
@@ -22,8 +22,8 @@ export default defineUserConfig<DefaultThemeOptions>({
     ],
   ],
   themeConfig: {
-    repo: 'taozi0809/t-create',
-    docsRepo: 'taozi0809/t-create',
+    repo: 'taozi0809/v3-create',
+    docsRepo: 'taozi0809/v3-create',
     docsDir: 'docs',
     docsBranch: 'next',
     editLinks: true,

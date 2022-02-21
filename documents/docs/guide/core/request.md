@@ -76,6 +76,6 @@ devServer: {
 
 ## Mock 数据
 
-t-create 并不打算集成 Mock 功能。
+v3-create 并不打算集成 Mock 功能。
 
 如果你有需要，推荐使用 [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) 来进行 mock 数据处理。

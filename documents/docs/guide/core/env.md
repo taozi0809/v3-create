@@ -13,7 +13,7 @@
 环境文件只包含环境变量的“键=值”对：
 
 ```bash
-VITE_APP_TITLE=t-create
+VITE_APP_TITLE=v3-create
 ```
 
 ## Mode
@@ -32,7 +32,7 @@ VITE_APP_TITLE=t-create
 用于显示默认的页面标题，配合路由 mate.title 属性，最后展示效果：
 
 ```title
-首页 ｜ t-create 
+首页 ｜ v3-create 
 ```
 
 ### VITE_APP_BASE_URL

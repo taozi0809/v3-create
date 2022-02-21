@@ -1,19 +1,19 @@
-# t-create
+# v3-create
 
 <a href="https://v3.cn.vuejs.org/" target="blank">
   <img src="https://img.shields.io/badge/vue-3.2.6-brightgreen.svg" />
 </a>
-<a href="https://www.npmjs.com/package/t-create" target="blank">
-  <img src="https://img.shields.io/npm/v/t-create/next" />
+<a href="https://www.npmjs.com/package/v3-create" target="blank">
+  <img src="https://img.shields.io/npm/v/v3-create/next" />
 </a>
-<a href="https://github.com/taozi0809/t-create/actions" target="blank">
-  <img src="https://github.com/taozi0809/t-create/workflows/GitHub%20Actions/badge.svg" />
+<a href="https://github.com/taozi0809/v3-create/actions" target="blank">
+  <img src="https://github.com/taozi0809/v3-create/workflows/GitHub%20Actions/badge.svg" />
 </a>
-<a href="https://github.com/taozi0809/t-create/blob/next/LICENSE" target="blank">
+<a href="https://github.com/taozi0809/v3-create/blob/next/LICENSE" target="blank">
   <img src="https://img.shields.io/github/license/mashape/apistatus.svg" />
 </a>
-<a href="https://github.com/taozi0809/t-create" target="blank">
-  <img src="https://img.shields.io/github/stars/taozi0809/t-create.svg?style=social&label=Stars" />
+<a href="https://github.com/taozi0809/v3-create" target="blank">
+  <img src="https://img.shields.io/github/stars/taozi0809/v3-create.svg?style=social&label=Stars" />
 </a>
 
 <style>
@@ -24,7 +24,7 @@ a img{ padding-right: 5px; }
 
 ## 简介
 
-**t-create** 基于 [vue3](https://v3.cn.vuejs.org/) + typescript，使用 Vite 构建项目，支持众多的开箱即用的功能和针对项目进行了不同程度的优化。不同于众多的中后台解决方案（[ant-design-pro](https://pro.ant.design/docs/getting-started-cn)、[vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)、[d2-admin](https://d2.pub/zh/doc/d2-admin/) 等）。它的宗旨是快速创建一套**纯净**却具备强大基础功能的模板，协助开发者自由发挥快速搭建任何类型的项目。
+**v3-create** 基于 [vue3](https://v3.cn.vuejs.org/) + typescript，使用 Vite 构建项目，支持众多的开箱即用的功能和针对项目进行了不同程度的优化。不同于众多的中后台解决方案（[ant-design-pro](https://pro.ant.design/docs/getting-started-cn)、[vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)、[d2-admin](https://d2.pub/zh/doc/d2-admin/) 等）。它的宗旨是快速创建一套**纯净**却具备强大基础功能的模板，协助开发者自由发挥快速搭建任何类型的项目。
 
 另一个强大的功能，就是基于 Lerna 实现的包管理功能，如果你正负责一个前端团队，那这项功能将极大的提升你的团队开发效率，具体使用请查看[packages](/packages)。
 
@@ -43,11 +43,11 @@ a img{ padding-right: 5px; }
 
 ### CLI
 
-你可以通过全局安装 `t-create`，它本质上是一款 `CLI` (command-line interface，中文：命令行界面) ，提供了一系列的选项，为你生成一套适合于你的前端开发模板，这套模板已经提供了许多通用的基础功能，为你的项目打下坚实的基础。
+你可以通过全局安装 `v3-create`，它本质上是一款 `CLI` (command-line interface，中文：命令行界面) ，提供了一系列的选项，为你生成一套适合于你的前端开发模板，这套模板已经提供了许多通用的基础功能，为你的项目打下坚实的基础。
 
-### 基于 t-create 打造自己的脚手架
+### 基于 v3-create 打造自己的脚手架
 
-通常情况下，每个团队的习惯不同，尽管 `t-create` 提供了可选项辅助生成个性化模板，但不能满足所有人的需求，所以基于 `t-create` 打造一套自己的脚手架是一个更好的选择，你可以通过 `Fork` 本仓库，修改成你的团队的开发习惯。
+通常情况下，每个团队的习惯不同，尽管 `v3-create` 提供了可选项辅助生成个性化模板，但不能满足所有人的需求，所以基于 `v3-create` 打造一套自己的脚手架是一个更好的选择，你可以通过 `Fork` 本仓库，修改成你的团队的开发习惯。
 
 并且你可以私人订制[拓展](/packages)功能，为你的团队创建更多通用的业务组件或工具。
 
