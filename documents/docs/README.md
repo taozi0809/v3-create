@@ -6,14 +6,14 @@
 <a href="https://www.npmjs.com/package/t-create" target="blank">
   <img src="https://img.shields.io/npm/v/t-create/next" />
 </a>
-<a href="https://github.com/code-device/t-create/actions" target="blank">
-  <img src="https://github.com/code-device/t-create/workflows/GitHub%20Actions/badge.svg" />
+<a href="https://github.com/taozi0809/t-create/actions" target="blank">
+  <img src="https://github.com/taozi0809/t-create/workflows/GitHub%20Actions/badge.svg" />
 </a>
-<a href="https://github.com/code-device/t-create/blob/next/LICENSE" target="blank">
+<a href="https://github.com/taozi0809/t-create/blob/next/LICENSE" target="blank">
   <img src="https://img.shields.io/github/license/mashape/apistatus.svg" />
 </a>
-<a href="https://github.com/code-device/t-create" target="blank">
-  <img src="https://img.shields.io/github/stars/code-device/t-create.svg?style=social&label=Stars" />
+<a href="https://github.com/taozi0809/t-create" target="blank">
+  <img src="https://img.shields.io/github/stars/taozi0809/t-create.svg?style=social&label=Stars" />
 </a>
 
 <style>

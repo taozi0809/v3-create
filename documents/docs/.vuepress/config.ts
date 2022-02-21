@@ -22,8 +22,8 @@ export default defineUserConfig<DefaultThemeOptions>({
     ],
   ],
   themeConfig: {
-    repo: 'code-device/t-create',
-    docsRepo: 'code-device/t-create',
+    repo: 'taozi0809/t-create',
+    docsRepo: 'taozi0809/t-create',
     docsDir: 'docs',
     docsBranch: 'next',
     editLinks: true,
@@ -31,27 +31,27 @@ export default defineUserConfig<DefaultThemeOptions>({
     smoothScroll: true,
     darkMode: false,
     navbar: [
-      { 
+      {
         text: '指南',
         link: '/README.md',
       },
-      { 
+      {
         text: '参考',
         children: [
-          { 
+          {
             text: '全局组件',
             children: [
               { text: '静态资源', link: '/reference/components/staticFile.md'},
               { text: 'SVG 图标', link: '/reference/components/svgIcon.md'}
             ]
           },
-          { 
+          {
             text: '全局状态管理',
             children: [
               { text: '用户登录', link: '/reference/store/user.md'},
             ]
           },
-          { 
+          {
             text: 'Hooks',
             children: [
               { text: 'useLoading', link: '/reference/hooks/useLoading.md'},
@@ -65,11 +65,11 @@ export default defineUserConfig<DefaultThemeOptions>({
       {
         text: '相关说明',
         children: [
-          { 
+          {
             text: '贡献',
             link: '/contribution/README.md'
           },
-          { 
+          {
             text: '版本回顾',
             link: '/contribution/history.md'
           },
@@ -78,11 +78,11 @@ export default defineUserConfig<DefaultThemeOptions>({
       {
         text: 'v6.x',
         children: [
-          { 
+          {
             text: 'v6.x',
             link: '/'
           },
-          { 
+          {
             text: 'v5.x',
             link: 'https://taozi0809.github.io/'
           },

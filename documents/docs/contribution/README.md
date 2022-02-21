@@ -1,14 +1,14 @@
 # 贡献
 
-[t-create](https://github.com/code-device/t-create) 目前还处于内测开发状态，我们会逐步总结出更多适合典型业务场景的业务开发需求。
+[t-create](https://github.com/taozi0809/t-create) 目前还处于内测开发状态，我们会逐步总结出更多适合典型业务场景的业务开发需求。
 
 ## 提供建议与提交 BUG
 
-有任何修改和建议都可以通过提交 [Issue](https://github.com/code-device/t-create/issues) 的方式与我们沟通。
+有任何修改和建议都可以通过提交 [Issue](https://github.com/taozi0809/t-create/issues) 的方式与我们沟通。
 
 ## 加入组织
 
-首先欢迎加入 [CodeDevice](https://github.com/code-device)，协助我们将 t-create 开发的更加优秀。
+首先欢迎加入 [CodeDevice](https://github.com/taozi0809)，协助我们将 t-create 开发的更加优秀。
 
 - 根据提交 PR 或 Issues 的活跃程度，等待接收 CodeDevice 的邀请。
 
@@ -33,20 +33,20 @@
 
 | 分类 | 对应开发目录 | 详情 |
 | --- | --- | --- |
-| 脚手架核心功能 | `/bin` | [查看](https://github.com/code-device/t-create/projects/2) |
-| 模板及核心特性 | `/template` | [查看](https://github.com/code-device/t-create/projects/5) |
-| 开发及使用说明文档 | `/documents` | [查看](https://github.com/code-device/t-create/projects/4) |
-| 样式&用户体验优化 | `/template/src/styles` | [查看](https://github.com/code-device/t-create/projects/7) |
-| 内置组件 | `/template/src/components` | [查看](https://github.com/code-device/t-create/projects/6) |
-| 全局状态管理 | `/template/src/store` | [查看](https://github.com/code-device/t-create/projects/8) |
-| 工具集 | `/template/src/libs` | [查看](https://github.com/code-device/t-create/projects/9) |
+| 脚手架核心功能 | `/bin` | [查看](https://github.com/taozi0809/t-create/projects/2) |
+| 模板及核心特性 | `/template` | [查看](https://github.com/taozi0809/t-create/projects/5) |
+| 开发及使用说明文档 | `/documents` | [查看](https://github.com/taozi0809/t-create/projects/4) |
+| 样式&用户体验优化 | `/template/src/styles` | [查看](https://github.com/taozi0809/t-create/projects/7) |
+| 内置组件 | `/template/src/components` | [查看](https://github.com/taozi0809/t-create/projects/6) |
+| 全局状态管理 | `/template/src/store` | [查看](https://github.com/taozi0809/t-create/projects/8) |
+| 工具集 | `/template/src/libs` | [查看](https://github.com/taozi0809/t-create/projects/9) |
 | Hooks | `/template/src/hooks` | - |
 
 Projects 目前分为三个状态，对应三个看板：To do、In progress、Done，请认领 To do 看板下的任务。
 
 ## 开发
 
-**【必读】请严格遵循 [Issues / PR 编写建议](https://github.com/code-device/t-create/issues/25)。**
+**【必读】请严格遵循 [Issues / PR 编写建议](https://github.com/taozi0809/t-create/issues/25)。**
 
 - Fork t-create 仓库。
 - 执行 git clone -b next {fork 仓库地址} 。
